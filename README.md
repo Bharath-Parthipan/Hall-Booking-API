@@ -33,6 +33,11 @@ The Hall Booking Application is a Node.js and Express-based API for managing roo
    ```
 The server will start on "http://localhost:3000."
 
+## Render URL
+   ```sh
+   https://hall-booking-api-1-8tp3.onrender.com
+   ```
+
 ## API Endpoints
 
 1. Create a Room
